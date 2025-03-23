@@ -2,7 +2,7 @@
 
 A comprehensive business management solution built with Next.js, featuring a modern UI and extensive functionality for managing workforce, payroll, finances, and more.
 
-![Business Management System](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2000&h=600)
+![Business Management System](https://pouch.jumpshare.com/preview/AbePGUYxEM2a8VF-FTBekEjoR4wuImtzLjNIGuN3JXVrQuMcz5bI7kU5zJuoVqrIgzw98e-fVb1rzI8DHWm_HzXLKFON7PzFcv87FXBL86U)
 
 ## Features
 
@@ -93,6 +93,10 @@ A comprehensive business management solution built with Next.js, featuring a mod
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## 🌍 Live Demo
+
+Check out the live version of BMS: [BMS Live](https://business-management-system-partha.netlify.app/)
+
 ## Project Structure
 
 ```
@@ -155,9 +159,6 @@ A comprehensive business management solution built with Next.js, featuring a mod
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
