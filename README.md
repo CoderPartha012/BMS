@@ -2,7 +2,7 @@
 
 A comprehensive business management solution built with Next.js, featuring a modern UI and extensive functionality for managing workforce, payroll, finances, and more.
 
-![Business Management System]()
+![Business Management System](https://i.postimg.cc/sDGvsMWV/slkjd.png)
 
 ## Features
 
